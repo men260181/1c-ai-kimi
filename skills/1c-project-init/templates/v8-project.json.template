@@ -1,0 +1,10 @@
+{
+  "v8path": "C:\\Program Files\\1cv8\\<VERSION>\\bin",
+  "infobase": {
+    "server": "<SERVER:PORT>",
+    "ref": "<BASE_NAME>",
+    "user": "<USER>",
+    "password": "<PASSWORD>"
+  },
+  "publication": "http://<SERVER>:<PORT>/<PUBLICATION>"
+}

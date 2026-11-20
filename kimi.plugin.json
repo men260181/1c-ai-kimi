@@ -1,0 +1,24 @@
+{
+  "name": "1c-ai-kimi",
+  "version": "1.0.0",
+  "description": "55 навыков AI-разработки на 1С:Предприятие 8.3 для Kimi Code",
+  "skills": "./skills/",
+  "author": "men260181",
+  "homepage": "https://github.com/men260181/1c-ai-kimi",
+  "license": "MIT",
+  "keywords": [
+    "1c",
+    "1c-enterprise",
+    "bsl",
+    "kimi-code",
+    "skills"
+  ],
+  "interface": {
+    "displayName": "1C AI Development Kit for Kimi Code",
+    "shortDescription": "Метаданные, формы, СКД, расширения, базы данных и тестирование 1С",
+    "longDescription": "Адаптированный для Kimi Code комплект из 55 навыков разработки на 1С:Предприятие 8.3. Основан на открытом проекте anymasoft/1c-ai.",
+    "developerName": "men260181",
+    "websiteURL": "https://github.com/men260181/1c-ai-kimi",
+    "defaultLocale": "ru-RU"
+  }
+}
