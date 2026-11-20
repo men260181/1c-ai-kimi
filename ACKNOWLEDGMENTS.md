@@ -1,6 +1,8 @@
-﻿# Благодарности
+# Благодарности
 
 Этот проект стал возможен благодаря вкладу многих людей и сообществ.
+
+> Этот файл сохраняет благодарности авторам исходного комплекта и использованных компонентов. Контакты сопровождающего адаптации для Kimi Code указаны в конце файла.
 
 ## 🌟 Особая благодарность
 
@@ -194,11 +196,12 @@ mcp-bsl-lsp-bridge — один из двух **бесплатных** MCP-се�
 
 ---
 
-## 📞 Контакты автора проекта
+## Контакты сопровождающего адаптации для Kimi Code
 
-- 💬 Telegram: [@Jefest9988](https://t.me/Jefest9988)
-- 📧 Email: arman.kudaibergenov.mail@gmail.com
-- 🐙 GitHub: [github.com/Arman-Kudaibergenov/1c-ai-development-kit](https://github.com/Arman-Kudaibergenov/1c-ai-development-kit)
+- Telegram: [@men260181](https://t.me/men260181)
+- Email: [men260181@icloud.com](mailto:men260181@icloud.com)
+- GitHub: [men260181](https://github.com/men260181)
+- Репозиторий адаптации: [men260181/1c-ai-kimi](https://github.com/men260181/1c-ai-kimi)
 
 ---
 
